@@ -1,0 +1,52 @@
+#header {
+    background-color: #191970;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.spacing {
+    margin-top: 20px;
+    border: 1px solid #162d51;
+    padding: 0px;
+    border-radius: 5px;
+}
+
+.spacing h4 {
+    background-color:#162d51;
+    color: #fff;
+}
+
+h4 {
+    padding: 10px;
+}
+
+h4,
+label,
+input {
+    font-size: 15px;
+}
+
+i {
+    padding-right: 5px;
+}
+
+form,
+#topArticles {
+    padding: 15px;
+}
+
+.btn-primary, .btn {
+    background-color: silver;
+    border: none;
+}
+
+.btn-primary:hover,
+.btn:hover {
+    background-color: #191970;
+}
